@@ -7,7 +7,7 @@ void main(List<String> args) {
   names1.add("2341720132");   // NIM
 
   // Menambahkan elemen ke names2 dengan .addAll()
-  names2.addAll({"Ananda Satria", "2341720132"});
+  names2.addAll({"2341720132", "Ananda Satria"});
 
   // Print hasil
   print(names1);
